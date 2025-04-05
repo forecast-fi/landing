@@ -1,0 +1,7 @@
+# robots.txt for https://forecastfi.io
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://forecastfiio/sitemap-index.xml 
